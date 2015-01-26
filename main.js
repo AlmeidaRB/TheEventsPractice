@@ -2,7 +2,7 @@ $(document).ready(function() {
 //all code that is dom dependent lives here
 
 //events
-
+//make sure 10 are completed
 
 //shorthand methods
 $(".box").eq(0).click(function (event) {
